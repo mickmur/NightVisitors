@@ -1,0 +1,1192 @@
+I/Corona  (11308): Alert triggered: goat
+I/Corona  (11308): Alert group: windowgoat
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811:
+attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308):
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 369.529 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: rabbit
+I/Corona  (11308): Abducted: rabbit
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:592:
+attempt to call method 'removeSelf' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: in function 'removeSelf'
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+592: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:587>
+I/Corona  (11308):      (tail call): ?
+I/Corona  (11308):      ?: in function <?:172>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308):
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: in function 'removeSelf'
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+592: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:587>
+I/Corona  (11308):      (tail call): ?
+I/Corona  (11308):      ?: in function <?:172>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): Collision ended: 1. animal  2. beam
+I/Corona  (11308): Alert ended: goat
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 369.530 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 368.729 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 368.729 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Alert triggered: goat
+I/Corona  (11308): Alert group: windowgoat
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Alert ended: goat
+I/Corona  (11308): Alert triggered: goat
+I/Corona  (11308): Alert group: windowgoat
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811:
+attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308):
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision ended: 1. animal  2. beam
+I/Corona  (11308): Alert ended: goat
+I/Corona  (11308): MEMORY = 370.081 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 4 Animal: pigeon
+I/Corona  (11308): Section: 4 Extra: tree4
+I/Corona  (11308): Section: 4 Alert: pigeon
+I/Corona  (11308): Alert: windowpigeon ready
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Alert triggered: pigeon
+I/Corona  (11308): Alert group: windowpigeon
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): MEMORY = 361.155 KB  TEXTURE = 12.546875
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): gameOver: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): MEMORY = 366.519 KB  TEXTURE = 13.546875
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameOver: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 371.147 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811:
+attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308):
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision ended: 1. animal  2. beam
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811:
+attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308):
+I/Corona  (11308): stack traceback:
+I/Corona  (11308):      [C]: ?
+I/Corona  (11308):      ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:
+811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308):      ?: in function <?:218>
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision ended: 1. animal  2. beam
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 364.546 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 364.519 KB  TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.959 KB	TEXTURE = 1
+V/Corona  (11308): > Class.forName: network.LuaLoader
+V/Corona  (11308): < Class.forName: network.LuaLoader
+V/Corona  (11308): Loading via reflection: network.LuaLoader
+V/Corona  (11308): > Class.forName: CoronaProvider.licensing.google.LuaLoader
+V/Corona  (11308): < Class.forName: CoronaProvider.licensing.google.LuaLoader
+V/Corona  (11308): Loading via reflection: CoronaProvider.licensing.google.LuaLoader
+I/Corona  (11308): New scene loaded: menu
+I/Corona  (11308): Menu: createScene event
+I/Corona  (11308): Menu: enterScene event
+I/Corona  (11308): MEMORY = 207.015 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 206.494 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 206.393 KB	TEXTURE = 1
+I/Corona  (11308): Menu: exitScene event
+I/Corona  (11308): levelSelect: createScene event
+I/Corona  (11308): levelSelect: enterScene event
+I/Corona  (11308): Menu: destroying view
+I/Corona  (11308): levelSelect: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: sheep
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): MEMORY = 339.543 KB	TEXTURE = 13.58984375
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): levelSelect: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: sheep
+I/Corona  (11308): Section: 2 Animal: rooster
+I/Corona  (11308): MEMORY = 345.360 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: sheep
+I/Corona  (11308): Abducted: sheep
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 3 Animal: crow
+I/Corona  (11308): Section: 3 Extra: tree1
+I/Corona  (11308): Section: 3 Extra: tree3
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 4 Extra: tree4
+I/Corona  (11308): MEMORY = 343.060 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: crow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: crow
+I/Corona  (11308): Abducted: crow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 5 Animal: cow
+I/Corona  (11308): Section: 5 Extra: tree3
+I/Corona  (11308): Section: 5 Extra: tree4
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 6 Extra: tree1
+I/Corona  (11308): Section: 6 Extra: tree2
+I/Corona  (11308): MEMORY = 339.317 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: cow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: cow
+I/Corona  (11308): Abducted: cow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 7 Animal: horse
+I/Corona  (11308): Section: 7 Extra: tree1
+I/Corona  (11308): Section: 7 Extra: tree3
+I/Corona  (11308): MEMORY = 337.919 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: horse
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: horse
+I/Corona  (11308): Abducted: horse
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 337.263 KB	TEXTURE = 12.546875
+I/Corona  (11308): Section: 8 Clearing: endzone
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. ufo  2. clearing
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 335.353 KB	TEXTURE = 12.546875
+I/Corona  (11308): MEMORY = 345.091 KB	TEXTURE = 12.546875
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameWon: createScene event
+I/Corona  (11308): gameWon: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): MEMORY = 276.487 KB	TEXTURE = 1.015625
+I/Corona  (11308): gameWon: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameWon: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): Section: 2 Animal: goat
+I/Corona  (11308): Section: 2 Alert: goat
+I/Corona  (11308): Alert: windowgoat ready
+I/Corona  (11308): MEMORY = 358.946 KB	TEXTURE = 12.546875
+I/Corona  (11308): Collision ended: 1. beam  2. animal
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): MEMORY = 365.313 KB	TEXTURE = 13.546875
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): gameOver: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameOver: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 362.106 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Abducted: rabbit
+I/Corona  (11308): Section: 2 Animal: goat
+I/Corona  (11308): Section: 2 Alert: goat
+I/Corona  (11308): Alert: windowgoat ready
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 363.579 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): MEMORY = 295.594 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+V/Corona  (11308): > Class.forName: network.LuaLoader
+V/Corona  (11308): < Class.forName: network.LuaLoader
+V/Corona  (11308): Loading via reflection: network.LuaLoader
+V/Corona  (11308): > Class.forName: CoronaProvider.licensing.google.LuaLoader
+V/Corona  (11308): < Class.forName: CoronaProvider.licensing.google.LuaLoader
+V/Corona  (11308): Loading via reflection: CoronaProvider.licensing.google.LuaLoader
+I/Corona  (11308): New scene loaded: menu
+I/Corona  (11308): Menu: createScene event
+I/Corona  (11308): Menu: enterScene event
+I/Corona  (11308): MEMORY = 207.015 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 206.494 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 206.393 KB	TEXTURE = 1
+I/Corona  (11308): Menu: exitScene event
+I/Corona  (11308): levelSelect: createScene event
+I/Corona  (11308): levelSelect: enterScene event
+I/Corona  (11308): Menu: destroying view
+I/Corona  (11308): levelSelect: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: sheep
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): MEMORY = 339.543 KB	TEXTURE = 13.58984375
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): levelSelect: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: sheep
+I/Corona  (11308): Section: 2 Animal: rooster
+I/Corona  (11308): MEMORY = 345.360 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: sheep
+I/Corona  (11308): Abducted: sheep
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 3 Animal: crow
+I/Corona  (11308): Section: 3 Extra: tree1
+I/Corona  (11308): Section: 3 Extra: tree3
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 4 Extra: tree4
+I/Corona  (11308): MEMORY = 343.060 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: crow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: crow
+I/Corona  (11308): Abducted: crow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 5 Animal: cow
+I/Corona  (11308): Section: 5 Extra: tree3
+I/Corona  (11308): Section: 5 Extra: tree4
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 6 Extra: tree1
+I/Corona  (11308): Section: 6 Extra: tree2
+I/Corona  (11308): MEMORY = 339.317 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: cow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: cow
+I/Corona  (11308): Abducted: cow
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 7 Animal: horse
+I/Corona  (11308): Section: 7 Extra: tree1
+I/Corona  (11308): Section: 7 Extra: tree3
+I/Corona  (11308): MEMORY = 337.919 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: horse
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: horse
+I/Corona  (11308): Abducted: horse
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 337.263 KB	TEXTURE = 12.546875
+I/Corona  (11308): Section: 8 Clearing: endzone
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. ufo  2. clearing
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 335.353 KB	TEXTURE = 12.546875
+I/Corona  (11308): MEMORY = 345.091 KB	TEXTURE = 12.546875
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameWon: createScene event
+I/Corona  (11308): gameWon: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): MEMORY = 276.487 KB	TEXTURE = 1.015625
+I/Corona  (11308): gameWon: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameWon: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): Section: 2 Animal: goat
+I/Corona  (11308): Section: 2 Alert: goat
+I/Corona  (11308): Alert: windowgoat ready
+I/Corona  (11308): MEMORY = 358.946 KB	TEXTURE = 12.546875
+I/Corona  (11308): Collision ended: 1. beam  2. animal
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): MEMORY = 365.313 KB	TEXTURE = 13.546875
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): gameOver: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameOver: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 362.106 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Abducted: rabbit
+I/Corona  (11308): Section: 2 Animal: goat
+I/Corona  (11308): Section: 2 Alert: goat
+I/Corona  (11308): Alert: windowgoat ready
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 363.579 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): MEMORY = 295.594 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 294.680 KB	TEXTURE = 1
+I/Corona  (11308): gameOver: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): MEMORY = 369.454 KB	TEXTURE = 13.546875
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameOver: destroying view
+I/Corona  (11308): MEMORY = 378.931 KB	TEXTURE = 12.546875
+I/Corona  (11308): MEMORY = 371.759 KB	TEXTURE = 12.546875
+I/Corona  (11308): MEMORY = 371.212 KB	TEXTURE = 12.546875
+I/Corona  (11308): MEMORY = 371.185 KB	TEXTURE = 12.546875
+I/Corona  (11308): MEMORY = 371.185 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 378.556 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): MEMORY = 366.544 KB	TEXTURE = 12.546875
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): MEMORY = 299.531 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.699 KB	TEXTURE = 1
+I/Corona  (11308): MEMORY = 298.699 KB	TEXTURE = 1
+I/Corona  (11308): gameOver: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameOver: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 371.595 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 2 Animal: goat
+I/Corona  (11308): Section: 2 Alert: goat
+I/Corona  (11308): Alert: windowgoat ready
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 3 Extra: tree1
+I/Corona  (11308): Section: 3 Extra: tree3
+I/Corona  (11308): Alert triggered: goat
+I/Corona  (11308): Alert group: windowgoat
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308): 
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): MEMORY = 372.533 KB	TEXTURE = 12.546875
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): gameOver: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameOver: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 377.607 KB	TEXTURE = 12.546875
+I/Corona  (11308): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: rabbit
+I/Corona  (11308): Abducted: rabbit
+I/Corona  (11308): Section: 2 Animal: goat
+I/Corona  (11308): Section: 2 Alert: goat
+I/Corona  (11308): Alert: windowgoat ready
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 379.045 KB	TEXTURE = 12.546875
+I/Corona  (11308): Section: 3 Extra: tree1
+I/Corona  (11308): Section: 3 Extra: tree3
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Alert triggered: goat
+I/Corona  (11308): Alert group: windowgoat
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308): 
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: rabbit
+I/Corona  (11308): Abducted: rabbit
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:592: attempt to call method 'removeSelf' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: in function 'removeSelf'
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:592: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:587>
+I/Corona  (11308): 	(tail call): ?
+I/Corona  (11308): 	?: in function <?:172>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308): 
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: in function 'removeSelf'
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:592: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:587>
+I/Corona  (11308): 	(tail call): ?
+I/Corona  (11308): 	?: in function <?:172>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): Collision ended: 1. animal  2. beam
+I/Corona  (11308): Alert ended: goat
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Alert triggered: goat
+I/Corona  (11308): Alert group: windowgoat
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308): 
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): MEMORY = 376.944 KB	TEXTURE = 12.546875
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision ended: 1. animal  2. beam
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): MEMORY = 378.253 KB	TEXTURE = 12.546875
+I/Corona  (11308): Section: 4 Animal: pigeon
+I/Corona  (11308): Section: 4 Extra: tree4
+I/Corona  (11308): Section: 4 Alert: pigeon
+I/Corona  (11308): Alert: windowpigeon ready
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Collision began: 1. beam  2. animal: pigeon
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Alert ended: pigeon
+I/Corona  (11308): Alert triggered: pigeon
+I/Corona  (11308): Alert group: windowpigeon
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Attempting abduction: pigeon
+I/Corona  (11308): MEMORY = 375.909 KB	TEXTURE = 12.546875
+I/Corona  (11308): Abducted: pigeon
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Section: 5 Extra: tree3
+I/Corona  (11308): Section: 5 Extra: tree4
+I/Corona  (11308): Alert ended: pigeon
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): landing: false
+I/Corona  (11308): landed: false
+I/Corona  (11308): Game: exitScene event
+I/Corona  (11308): gameOver: createScene event
+I/Corona  (11308): gameOver: enterScene event
+I/Corona  (11308): Game: destroying view
+I/Corona  (11308): MEMORY = 307.686 KB	TEXTURE = 1
+I/Corona  (11308): gameOver: exitScene event
+I/Corona  (11308): Game: createScene event
+I/Corona  (11308): Section: 1 Animal: rabbit
+I/Corona  (11308): Section: 1 Extra: tree2
+I/Corona  (11308): Section: 1 Extra: tree4
+I/Corona  (11308): Section: 1 Extra: tree1
+I/Corona  (11308): Section: 1 Extra: tree3
+I/Corona  (11308): Game: enterScene event
+I/Corona  (11308): gameOver: destroying view
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): thrust audio..
+I/Corona  (11308): Runtime error
+I/Corona  (11308): ...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: attempt to concatenate field 'label' (a nil value)
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+I/Corona  (11308): Runtime error
+I/Corona  (11308): 
+I/Corona  (11308): stack traceback:
+I/Corona  (11308): 	[C]: ?
+I/Corona  (11308): 	...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:811: in function <...uments\Corona Projects\FOP_CoronaProject_v2\game.lua:804>
+I/Corona  (11308): 	?: in function <?:218>
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+V/Corona  (14650): > Class.forName: network.LuaLoader
+V/Corona  (14650): < Class.forName: network.LuaLoader
+V/Corona  (14650): Loading via reflection: network.LuaLoader
+V/Corona  (14650): > Class.forName: CoronaProvider.licensing.google.LuaLoader
+V/Corona  (14650): < Class.forName: CoronaProvider.licensing.google.LuaLoader
+V/Corona  (14650): Loading via reflection: CoronaProvider.licensing.google.LuaLoader
+I/Corona  (14650): New scene loaded: menu
+I/Corona  (14650): Menu: createScene event
+I/Corona  (14650): Menu: enterScene event
+I/Corona  (14650): MEMORY = 206.667 KB	TEXTURE = 1
+I/Corona  (14650): MEMORY = 206.407 KB	TEXTURE = 1
+I/Corona  (14650): MEMORY = 206.407 KB	TEXTURE = 1
+I/Corona  (14650): Menu: exitScene event
+I/Corona  (14650): levelSelect: createScene event
+I/Corona  (14650): levelSelect: enterScene event
+I/Corona  (14650): Menu: destroying view
+I/Corona  (14650): levelSelect: exitScene event
+I/Corona  (14650): Game: createScene event
+I/Corona  (14650): Section: 1 Animal: sheep
+I/Corona  (14650): Section: 1 Extra: tree2
+I/Corona  (14650): Section: 1 Extra: tree4
+I/Corona  (14650): Section: 1 Extra: tree1
+I/Corona  (14650): Section: 1 Extra: tree3
+I/Corona  (14650): MEMORY = 339.564 KB	TEXTURE = 13.595703125
+I/Corona  (14650): Game: enterScene event
+I/Corona  (14650): levelSelect: destroying view
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: sheep
+I/Corona  (14650): Section: 2 Animal: rooster
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: sheep
+I/Corona  (14650): Abducted: sheep
+I/Corona  (14650): MEMORY = 344.847 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: rooster
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: rooster
+I/Corona  (14650): Abducted: rooster
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 3 Animal: crow
+I/Corona  (14650): Section: 3 Extra: tree1
+I/Corona  (14650): Section: 3 Extra: tree3
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 343.784 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 4 Extra: tree4
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: crow
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: crow
+I/Corona  (14650): Abducted: crow
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 342.769 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 5 Animal: cow
+I/Corona  (14650): Section: 5 Extra: tree3
+I/Corona  (14650): Section: 5 Extra: tree4
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 6 Extra: tree1
+I/Corona  (14650): Section: 6 Extra: tree2
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: cow
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 343.722 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: cow
+I/Corona  (14650): Abducted: cow
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 7 Animal: horse
+I/Corona  (14650): Section: 7 Extra: tree1
+I/Corona  (14650): Section: 7 Extra: tree3
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: horse
+I/Corona  (14650): MEMORY = 342.933 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: horse
+I/Corona  (14650): Abducted: horse
+I/Corona  (14650): Section: 8 Clearing: endzone
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. ufo  2. clearing
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 341.120 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Game: exitScene event
+I/Corona  (14650): gameWon: createScene event
+I/Corona  (14650): gameWon: enterScene event
+I/Corona  (14650): Game: destroying view
+I/Corona  (14650): MEMORY = 276.208 KB	TEXTURE = 1.015625
+I/Corona  (14650): gameWon: exitScene event
+I/Corona  (14650): Game: createScene event
+I/Corona  (14650): Section: 1 Animal: rabbit
+I/Corona  (14650): Section: 1 Extra: tree2
+I/Corona  (14650): Section: 1 Extra: tree4
+I/Corona  (14650): Section: 1 Extra: tree1
+I/Corona  (14650): Section: 1 Extra: tree3
+I/Corona  (14650): Game: enterScene event
+I/Corona  (14650): gameWon: destroying view
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (14650): MEMORY = 353.214 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: rabbit
+I/Corona  (14650): Abducted: rabbit
+I/Corona  (14650): landing: false
+I/Corona  (14650): landed: false
+I/Corona  (14650): Game: exitScene event
+I/Corona  (14650): gameOver: createScene event
+I/Corona  (14650): gameOver: enterScene event
+I/Corona  (14650): Game: destroying view
+I/Corona  (14650): gameOver: exitScene event
+I/Corona  (14650): Game: createScene event
+I/Corona  (14650): Section: 1 Animal: rabbit
+I/Corona  (14650): Section: 1 Extra: tree2
+I/Corona  (14650): Section: 1 Extra: tree4
+I/Corona  (14650): Section: 1 Extra: tree1
+I/Corona  (14650): Section: 1 Extra: tree3
+I/Corona  (14650): MEMORY = 360.706 KB	TEXTURE = 13.546875
+I/Corona  (14650): Game: enterScene event
+I/Corona  (14650): gameOver: destroying view
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: rabbit
+I/Corona  (14650): Abducted: rabbit
+I/Corona  (14650): MEMORY = 358.925 KB	TEXTURE = 12.546875
+I/Corona  (14650): Section: 2 Animal: goat
+I/Corona  (14650): Section: 2 Alert: goat
+I/Corona  (14650): Alert: windowgoat ready
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 3 Extra: tree1
+I/Corona  (14650): Section: 3 Extra: tree3
+I/Corona  (14650): Alert triggered: goat
+I/Corona  (14650): Alert group: windowgoat
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: goat
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: goat
+I/Corona  (14650): Abducted: goat
+I/Corona  (14650): Alert ended: goat
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 4 Animal: pigeon
+I/Corona  (14650): Section: 4 Extra: tree4
+I/Corona  (14650): Section: 4 Alert: pigeon
+I/Corona  (14650): Alert: windowpigeon ready
+I/Corona  (14650): MEMORY = 361.272 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 360.159 KB	TEXTURE = 12.546875
+I/Corona  (14650): landing: false
+I/Corona  (14650): landed: false
+I/Corona  (14650): Game: exitScene event
+I/Corona  (14650): gameOver: createScene event
+I/Corona  (14650): gameOver: enterScene event
+I/Corona  (14650): Game: destroying view
+I/Corona  (14650): gameOver: exitScene event
+I/Corona  (14650): Game: createScene event
+I/Corona  (14650): Section: 1 Animal: rabbit
+I/Corona  (14650): Section: 1 Extra: tree2
+I/Corona  (14650): Section: 1 Extra: tree4
+I/Corona  (14650): Section: 1 Extra: tree1
+I/Corona  (14650): Section: 1 Extra: tree3
+I/Corona  (14650): Game: enterScene event
+I/Corona  (14650): gameOver: destroying view
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 366.479 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: rabbit
+I/Corona  (14650): Section: 2 Animal: goat
+I/Corona  (14650): Section: 2 Alert: goat
+I/Corona  (14650): Alert: windowgoat ready
+I/Corona  (14650): Collision ended: 1. beam  2. animal
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Alert triggered: goat
+I/Corona  (14650): Alert group: windowgoat
+I/Corona  (14650): Alert ended: goat
+I/Corona  (14650): Section: 3 Extra: tree1
+I/Corona  (14650): Section: 3 Extra: tree3
+I/Corona  (14650): Alert triggered: goat
+I/Corona  (14650): Alert group: windowgoat
+I/Corona  (14650): Collision began: 1. beam  2. animal: goat
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 369.351 KB	TEXTURE = 12.546875
+I/Corona  (14650): Attempting abduction: goat
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Abducted: goat
+I/Corona  (14650): Alert ended: goat
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 4 Animal: pigeon
+I/Corona  (14650): Section: 4 Extra: tree4
+I/Corona  (14650): Section: 4 Alert: pigeon
+I/Corona  (14650): Alert: windowpigeon ready
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Alert triggered: pigeon
+I/Corona  (14650): Alert group: windowpigeon
+I/Corona  (14650): Collision began: 1. beam  2. animal: pigeon
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 365.210 KB	TEXTURE = 12.546875
+I/Corona  (14650): Attempting abduction: pigeon
+I/Corona  (14650): Abducted: pigeon
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 5 Extra: tree3
+I/Corona  (14650): Section: 5 Extra: tree4
+I/Corona  (14650): Alert ended: pigeon
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 6 Animal: dog
+I/Corona  (14650): Section: 6 Extra: tree1
+I/Corona  (14650): Section: 6 Extra: tree2
+I/Corona  (14650): Section: 6 Alert: dog
+I/Corona  (14650): Alert: windowdog ready
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Alert triggered: dog
+I/Corona  (14650): Alert group: windowdog
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: dog
+I/Corona  (14650): Collision ended: 1. beam  2. animal
+I/Corona  (14650): Alert ended: dog
+I/Corona  (14650): Alert triggered: dog
+I/Corona  (14650): Alert group: windowdog
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. beam  2. animal: dog
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 366.347 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: dog
+I/Corona  (14650): Alert ended: dog
+I/Corona  (14650): Abducted: dog
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Section: 7 Animal: rooster
+I/Corona  (14650): Section: 7 Extra: tree1
+I/Corona  (14650): Section: 7 Extra: tree3
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 365.046 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 365.300 KB	TEXTURE = 12.546875
+I/Corona  (14650): Collision began: 1. beam  2. animal: rooster
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision ended: 1. beam  2. animal
+I/Corona  (14650): Section: 8 Clearing: endzone
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 363.265 KB	TEXTURE = 12.546875
+I/Corona  (14650): Collision began: 1. beam  2. animal: rooster
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Attempting abduction: rooster
+I/Corona  (14650): Abducted: rooster
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): Collision began: 1. ufo  2. clearing
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 362.187 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): MEMORY = 361.065 KB	TEXTURE = 12.546875
+I/Corona  (14650): thrust audio..
+I/Corona  (14650): landing: false
+I/Corona  (14650): landed: false
+I/Corona  (14650): Game: exitScene event
+I/Corona  (14650): gameOver: createScene event
+I/Corona  (14650): gameOver: enterScene event
+I/Corona  (14650): Game: destroying view

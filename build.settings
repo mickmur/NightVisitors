@@ -1,0 +1,41 @@
+-------------------------------------------------------------------------
+--Night Visitors
+--a murmic production!!
+--Created by Micheal Murray
+
+--This game is based on the Platformer Storyboard template provided by
+--T and G Apps Ltd., Created by Jamie Trinder
+--www.tandgapps.co.uk
+
+--CoronaSDK version 2013.1135 was used to build the Night Visitors android app.
+
+--The silhouettes in this game were sourced from all-silhouettes.com
+--The explosion animation is sourced from http://april-young.com/home/wp-content/uploads/2012/04/Explosion1spritesheet.png
+--All other artwork and design was created by Micheal Murray
+-------------------------------------------------------------------------
+
+settings =
+{
+	orientation =
+ 	{
+		default = "landscapeRight",
+		supported =
+ 		{
+			"landscapeRight","landscapeLeft"
+		},
+	},
+--[[	
+	iphone =
+	{
+		plist =
+		{
+            CFBundleIconFile = "Icon.png",
+            CFBundleIconFiles = {
+                    "Icon.png" , 
+                    "Icon@2x.png" , 
+                    "Icon-72.png" , 
+            },
+		},
+	},
+	--]]
+}
